@@ -22,3 +22,15 @@
 **Today's Progress**: I've started the Udemy course - The Complete Web Developer Masterclass. I've set up Notepad++ and started using Emmet. Abbreviations really appeal to me and I can see them being something I'll use a lot once I get the hang of it - I'm always building macros and shortcuts for my work so coding abbreviations will be handy.
 
 **Thoughts:** Following courses is definitely a bit of a comfort zone for now - I might go 50/50 with following courses (Udemy and FCC) and Project work, as I can see the benefit of both, and the Udemy course has lots of exciting things further down the line like PHP and MySQL which I can use in day-to-day work. A better study environment will help, including a mouse and external monitor (working on it!) and I've also had support from work should I choose to study through the University for qualifications, so that's something to aim for - I'd like to get a bit more confidence before committing to that, and I'd like to know enough about what I enjoy to choose a specialty - this will come with experience.
+
+### Day 3: January 5, 2017
+
+**Today's Progress**: I didn't have any internet so did a coding from scratch exercise to see what I could remember without any referencing materials. It'll be good to recreate this exercise in 3 months and compare.
+
+**Thoughts:** The best way to learn is to figure it out myself - getting the answer easily by looking it up when I'm stuck doesn't cement it for next time.
+
+### Day 4: January 6, 2017
+
+**Today's Progress**: I did some further study with the Udemy course, and then installed Github Desktop to try and learn a sustainable way of working on projects.
+
+**Thoughts:** I had a quick browse on the available courses on Udemy and got excited by the possibilities of what there is to learn - I need to dedicate more time.
