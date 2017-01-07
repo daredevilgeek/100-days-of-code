@@ -34,3 +34,9 @@
 **Today's Progress**: I did some further study with the Udemy course, and then installed Github Desktop to try and learn a sustainable way of working on projects.
 
 **Thoughts:** I had a quick browse on the available courses on Udemy and got excited by the possibilities of what there is to learn - I need to dedicate more time.
+
+### Day 5: January 7, 2017
+
+**Today's Progress**: I did some further study with the Udemy course, following alongside with Notepad++. There was some new stuff with tables which was pretty cool and their resources are great - I'm saving them all for future reference.
+
+**Thoughts:** I think I've got to get a few more of these study sessions under my belt before I go back to the FCC projects - I learn by doing but at the moment I don't have enough to work with so have to expand my knowledgebase. I have a dedicated study area now which is motivating me to spend more time studying and coding.
