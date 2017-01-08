@@ -40,3 +40,9 @@
 **Today's Progress**: I did some further study with the Udemy course, following alongside with Notepad++. There was some new stuff with tables which was pretty cool and their resources are great - I'm saving them all for future reference.
 
 **Thoughts:** I think I've got to get a few more of these study sessions under my belt before I go back to the FCC projects - I learn by doing but at the moment I don't have enough to work with so have to expand my knowledgebase. I have a dedicated study area now which is motivating me to spend more time studying and coding.
+
+### Day 6: January 8, 2017
+
+**Today's Progress**: Further learning about linking, tagging, and some answers to long-standing questions about file management when coding from scratch.
+
+**Thoughts:** I've now purchased an external monitor which has made it much easier to reference material while coding or studying code - I can follow along with the sessions in realtime or have reference material up on another screen - this is going to be a gamechanger. Also, having an office space I really don't want to leave (seriously it's super cool) is going to make me code more. Removing barriers is the best way for me to work.
