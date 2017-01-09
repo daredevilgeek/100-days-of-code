@@ -46,3 +46,11 @@
 **Today's Progress**: Further learning about linking, tagging, and some answers to long-standing questions about file management when coding from scratch.
 
 **Thoughts:** I've now purchased an external monitor which has made it much easier to reference material while coding or studying code - I can follow along with the sessions in realtime or have reference material up on another screen - this is going to be a gamechanger. Also, having an office space I really don't want to leave (seriously it's super cool) is going to make me code more. Removing barriers is the best way for me to work.
+
+### Day 7: January 9, 2017
+
+**Today's Progress**: I did a mini-project to practice my CSS. Getting the image background in there drove me a bit crazy but I got it to work eventually!
+
+**Thoughts:** I changed up my daily routine - came home and went straight to the study (instead of the couch with chippies and beer). It's served me well and hopefully I can keep it up because I've spent two hours coding today without feeling like my day's interrupted at all. 
+
+**Link to work:** [CSS Exploration](100daysprojects/CSS exploration.html) 
