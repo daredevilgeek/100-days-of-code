@@ -53,4 +53,4 @@
 
 **Thoughts:** I changed up my daily routine - came home and went straight to the study (instead of the couch with chippies and beer). It's served me well and hopefully I can keep it up because I've spent two hours coding today without feeling like my day's interrupted at all. 
 
-**Link to work:** [CSS Exploration](100daysprojects/CSS exploration.html) 
+**Link to work:** [CSS Exploration](https://github.com/eddiethespud/100daysprojects/blob/master/CSS%20exploration.html) 
