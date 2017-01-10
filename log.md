@@ -54,3 +54,11 @@
 **Thoughts:** I changed up my daily routine - came home and went straight to the study (instead of the couch with chippies and beer). It's served me well and hopefully I can keep it up because I've spent two hours coding today without feeling like my day's interrupted at all. 
 
 **Link to work:** [CSS Exploration](https://github.com/eddiethespud/100daysprojects/blob/master/CSS%20exploration.html) 
+
+### Day 8: January 10, 2017
+
+**Today's Progress**: I made a decent start on my Portfolio page (FCC project). There are a few niggles with it (footer showing halfway up the page, images not properly aligned etc) but it's a really good framework to keep going with and I'm optimistic this time. 
+
+**Thoughts:** It was much more successful than my last attempt and I can figure things out quickly by googling exactly what I need rather than having to go an do a tutorial on something before being able to use it in the project. I was tearing my hair out last time I did this and gave up, but this one was enjoyable to do - my skill level (and comfort level) has obviously increased a bit over this last week to allow me to do this. Onwards and upwards!
+
+**Link to work:** [My Portfolio](http://codepen.io/eddiethespud/full/MJaNWL/)
