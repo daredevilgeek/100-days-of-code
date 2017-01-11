@@ -62,3 +62,10 @@
 **Thoughts:** It was much more successful than my last attempt and I can figure things out quickly by googling exactly what I need rather than having to go an do a tutorial on something before being able to use it in the project. I was tearing my hair out last time I did this and gave up, but this one was enjoyable to do - my skill level (and comfort level) has obviously increased a bit over this last week to allow me to do this. Onwards and upwards!
 
 **Link to work:** [My Portfolio](http://codepen.io/eddiethespud/full/MJaNWL/)
+
+### Day 9: January 11, 2017
+
+**Today's Progress**: I joined CodeWars and spent a few hours trying to work through some Kata - it's hard going at the moment but a great challenge!
+
+**Thoughts:** I can get on board with the competitive and problem-solving nature of CodeWars, and I really like seeing the other solutions afterwards - they're always far more elegant than mine and I can learn from others' experience like that without feeling like I'm stealing their stuff!
+
