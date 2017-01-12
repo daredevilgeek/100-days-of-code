@@ -69,3 +69,8 @@
 
 **Thoughts:** I can get on board with the competitive and problem-solving nature of CodeWars, and I really like seeing the other solutions afterwards - they're always far more elegant than mine and I can learn from others' experience like that without feeling like I'm stealing their stuff!
 
+### Day 10: January 12, 2017
+
+**Today's Progress**: Just a little bit of CodeWars today - I'm unwell but spent a bit of time trying to troubleshoot while loops and arrays.
+
+**Thoughts:** This gets tricky when I hit roadblocks and I'm not sure how to solve the problem, but I think that's the beauty of it and that's how I'll learn. I'm using the W3Schools reference sheets and they don't always have the functions needed for the solutions (or maybe the examples/explanations) so I may need to find another resource.
