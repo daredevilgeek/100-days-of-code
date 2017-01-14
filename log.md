@@ -74,3 +74,9 @@
 **Today's Progress**: Just a little bit of CodeWars today - I'm unwell but spent a bit of time trying to troubleshoot while loops and arrays.
 
 **Thoughts:** This gets tricky when I hit roadblocks and I'm not sure how to solve the problem, but I think that's the beauty of it and that's how I'll learn. I'm using the W3Schools reference sheets and they don't always have the functions needed for the solutions (or maybe the examples/explanations) so I may need to find another resource.
+
+### Day 11: January 14, 2017
+
+**Today's Progress**: A little bit of troubleshooting on my Portfolio and some CSS with Udemy. I also re-signed up with IFTTT because I wanted to build a soil sensor project and wanted to check if they had any cool APIs available (I remember using some cool Twitter ones from there a few years ago) and I found out that they've changed tack and are aiming for customers, not developers now -that was a bit disappointing.
+
+**Thoughts:** Sometimes, if you're not focussed, you've just gotta fish around for something that'll take your fancy - occasionally I can stay working for hours but sometimes (like tonight) my eyes are glazing over!!
