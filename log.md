@@ -80,3 +80,9 @@
 **Today's Progress**: A little bit of troubleshooting on my Portfolio and some CSS with Udemy. I also re-signed up with IFTTT because I wanted to build a soil sensor project and wanted to check if they had any cool APIs available (I remember using some cool Twitter ones from there a few years ago) and I found out that they've changed tack and are aiming for customers, not developers now -that was a bit disappointing.
 
 **Thoughts:** Sometimes, if you're not focussed, you've just gotta fish around for something that'll take your fancy - occasionally I can stay working for hours but sometimes (like tonight) my eyes are glazing over!!
+
+### Day 12: January 15, 2017
+
+**Today's Progress**: A bit of Javascript on Codewars, and starting to build my own reference sheet using the Best Practice solutions, to build on what I can find on the w3schools ref sheets.
+
+**Thoughts:** Reference sheets are great but sometimes you need to nut out a problem and then see the "best" solution to really learn something - CodeWars is really teaching me good things in this way.
