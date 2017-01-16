@@ -86,3 +86,11 @@
 **Today's Progress**: A bit of Javascript on Codewars, and starting to build my own reference sheet using the Best Practice solutions, to build on what I can find on the w3schools ref sheets.
 
 **Thoughts:** Reference sheets are great but sometimes you need to nut out a problem and then see the "best" solution to really learn something - CodeWars is really teaching me good things in this way.
+
+### Day 13: January 16, 2017
+
+**Today's Progress**: I did some more work on my Portfolio and learned about forms and lists/navigations with CSS on Udemy.
+
+**Thoughts:** I'm having a bit of a nightmare with the spacing on my Portfolio. I'm sure I'll figure it out eventually so I'm continuing to put content and CSS in, but I've got no clue what's going on! I could doctor the spacing to make it look better but I'm going to wait until I actually know the best practice way to do it - I don't want to end up with a fudged bit of work.
+
+**Link to work:** [My Portfolio](http://codepen.io/eddiethespud/pen/MJaNWL/)
