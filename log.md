@@ -94,3 +94,11 @@
 **Thoughts:** I'm having a bit of a nightmare with the spacing on my Portfolio. I'm sure I'll figure it out eventually so I'm continuing to put content and CSS in, but I've got no clue what's going on! I could doctor the spacing to make it look better but I'm going to wait until I actually know the best practice way to do it - I don't want to end up with a fudged bit of work.
 
 **Link to work:** [My Portfolio](http://codepen.io/eddiethespud/pen/MJaNWL/)
+
+### Day 14: January 17, 2017
+
+**Today's Progress**: I accidentally overwrote some of yesterday's work and had to redo it, but this time I did it better so no problem! I've just seen the upcoming modules of the Udemy course are in structure of a web page which will be really helpful for my Portfolio - I'll get through those over the next couple of those, tidy up my Portfolio and move on with the FCC projects.
+
+**Thoughts:** I need to prioritise coding more - we're busy in the evenings and it's hard to find time some nights!
+
+**Link to work:** [My Portfolio](http://codepen.io/eddiethespud/pen/MJaNWL/)
