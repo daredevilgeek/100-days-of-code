@@ -102,3 +102,11 @@
 **Thoughts:** I need to prioritise coding more - we're busy in the evenings and it's hard to find time some nights!
 
 **Link to work:** [My Portfolio](http://codepen.io/eddiethespud/pen/MJaNWL/)
+
+### Day 15: January 19, 2017
+
+**Today's Progress**: I've finally sorted the issue with the things showing in the wrong order on my Portfolio! Wahey! Big wins. Now some formatting and to get some proper content in there before moving on to better things - to fill up my portfolio with!
+
+**Thoughts:** Feeling good about it - got up early this morning and instead of going to the gym, worked on my projects.
+
+**Link to work:** [My Portfolio](http://codepen.io/eddiethespud/pen/MJaNWL/)
