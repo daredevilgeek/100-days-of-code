@@ -110,3 +110,17 @@
 **Thoughts:** Feeling good about it - got up early this morning and instead of going to the gym, worked on my projects.
 
 **Link to work:** [My Portfolio](http://codepen.io/eddiethespud/pen/MJaNWL/)
+
+### Day 16-19: January 20-27, 2017
+
+**Today's Progress**: I spent these days studying C++ on Sololearn. 
+
+**Thoughts:** Life's been getting in the way and I've been away from my computer, but the apps make it easy to study. I need to readjust my daily routine to prioritise.
+
+### Day 20: January 28, 2017
+
+**Today's Progress**: I FINALLY finished my Portfolio - fixed the display issues with the navigation bars and images, and deemed it fit for purpose - submitted it through FCC and am now moving on.
+
+**Thoughts:** Portfolio's been a bit of a roadblock, so moving on from it will be good, the next section is Javascript which I really enjoy and should help me with CodeWars!
+
+**Link to work:** [My Portfolio](http://codepen.io/eddiethespud/pen/MJaNWL/)
