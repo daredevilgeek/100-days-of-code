@@ -124,3 +124,9 @@
 **Thoughts:** Portfolio's been a bit of a roadblock, so moving on from it will be good, the next section is Javascript which I really enjoy and should help me with CodeWars!
 
 **Link to work:** [My Portfolio](http://codepen.io/eddiethespud/pen/MJaNWL/)
+
+### Day 21: January 30, 2017
+
+**Today's Progress**: Working through FCC Javascript.
+
+**Thoughts:** I really like the bitesize way of working with FCC, the projects are good every now and then but there's something satisfying about tiny tasks.
