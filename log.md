@@ -130,3 +130,9 @@
 **Today's Progress**: Working through FCC Javascript.
 
 **Thoughts:** I really like the bitesize way of working with FCC, the projects are good every now and then but there's something satisfying about tiny tasks.
+
+### Day 22: January 31, 2017
+
+**Today's Progress**: Working through FCC Javascript and also C++ on Sololearn while waiting in the car.
+
+**Thoughts:** Is it just me or are pointers confusing af?
