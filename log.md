@@ -136,3 +136,15 @@
 **Today's Progress**: Working through FCC Javascript and also C++ on Sololearn while waiting in the car.
 
 **Thoughts:** Is it just me or are pointers confusing af?
+
+### Day 23: February 1, 2017
+
+**Today's Progress**: Working through C++ on Sololearn while waiting in the car.
+
+**Thoughts:** Still stuck on pointers and allocating memory. The app doesn't apply it in real usage terms and I can't understand how to apply it or what it means!
+
+### Day 24: February 4, 2017
+
+**Today's Progress**: Javascript - local and global variables. And signed up for Software Carpentry sessions next week!
+
+**Thoughts:** Super super jump-up-and-down excited to learn about automation, Python, and Git version control next week!
