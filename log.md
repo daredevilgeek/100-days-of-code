@@ -148,3 +148,9 @@
 **Today's Progress**: Javascript - local and global variables. And signed up for Software Carpentry sessions next week!
 
 **Thoughts:** Super super jump-up-and-down excited to learn about automation, Python, and Git version control next week!
+
+### Day 25: February 5, 2017
+
+**Today's Progress**: FCC Javascript > Switch statements. 
+
+**Thoughts:** Kind of hoping (but kind of dreading) that there's an FCC project sometime soon.
