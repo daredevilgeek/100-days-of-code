@@ -154,3 +154,9 @@
 **Today's Progress**: FCC Javascript > Switch statements. 
 
 **Thoughts:** Kind of hoping (but kind of dreading) that there's an FCC project sometime soon.
+
+### Day 26: February 7, 2017
+
+**Today's Progress**: FCC Javascript > Object Properties. Also installed the necessary software for my Software Carpentry sessions starting tomorrow.
+
+**Thoughts:** The FCC challenges are starting to get a bit tricky which is really good, not so repetitive any more - and can't wait for my first Software workshop tomorrow -Automating Tasks with the Unix Shell, yay!
