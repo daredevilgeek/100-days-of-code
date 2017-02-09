@@ -1,5 +1,11 @@
 # 100 Days Of Code - Log
 
+### Day 28: February 9, 2017
+
+**Today's Progress**: Learning Python at the ResBaz session - learning to read csv files with Python etc.
+
+**Thoughts:** This has huge consequences for my day-to-day work and could really automate some of my repetitive tasks once I get the hang of this - definitely something I want to learn more about and I'll be going through the rest of the ResBaz learning material.
+
 ### Day 27: February 8, 2017
 
 **Today's Progress**: Learning about the Unix Shell, building towards automation. Loved every minute of today's ResBaz sessions and worked through the material at home too, and will continue to work through it.
