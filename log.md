@@ -1,7 +1,10 @@
 # 100 Days Of Code - Log
 
+### Day 33: February 15, 2017
 
-### Day 31-32: February 13-24, 2017
+**Today's Progress**: Practicing my skills with the Unix Shell.
+
+### Day 31-32: February 13-14, 2017
 
 **Today's Progress**: Python with SoloLearn.
 
