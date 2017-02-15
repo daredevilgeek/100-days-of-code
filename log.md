@@ -1,5 +1,18 @@
 # 100 Days Of Code - Log
 
+
+### Day 31-32: February 13-24, 2017
+
+**Today's Progress**: Python with SoloLearn.
+
+### Day 30: February 12, 2017
+
+**Today's Progress**: Fundamentals of Python with Sololearn.
+
+### Day 29: February 10, 2017
+
+**Today's Progress**: Using Git from the cmd line at the last of the #ResBaz software carpentry sessions.
+
 ### Day 28: February 9, 2017
 
 **Today's Progress**: Learning Python at the ResBaz session - learning to read csv files with Python etc.
