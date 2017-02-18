@@ -1,5 +1,11 @@
 # 100 Days Of Code - Log
 
+### Day 34: February 18, 2017
+
+**Today's Progress**: Javascript - finally found out what JSON is!
+
+**Thoughts:** Really not good at making this a priority! Need to clean out the study and make better schedules for my day.
+
 ### Day 33: February 15, 2017
 
 **Today's Progress**: Practicing my skills with the Unix Shell.
