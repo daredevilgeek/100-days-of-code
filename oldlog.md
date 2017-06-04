@@ -1,4 +1,4 @@
-# 100 Days Of Code - Log
+# 100 Days Of Code - Log - Retired in June to make room for my new log!
 
 ### Day 34: February 18, 2017
 
