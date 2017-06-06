@@ -3,6 +3,12 @@
 # This is the log I'll use for the second attempt of 100-days-of-code. 
 ## My longterm goals are simple and malleable: learn enough to comfortably become a digital nomad. Make my app. Be able to comfortably do the Codewars Kata without looking at hints. Become a confident problemsolver with code.
 
+### Day 2: June 6, 2017
+
+**Today's Progress**: Today I studied JavaScript through the Stackskills course and learned about hiding divs on button click, and sending messages to the console which was new information.
+
+**Thoughts:** The videos I'm watching are a little slow, but I think it'll only take me another two days to get through this course and put the information into action (or into another more hands-on course). I might go back and forth between this and the FCC projects because I know those are really hands-on and tricky.
+
 ### Day 1: June 5, 2017
 
 **Today's Progress**: I've prepared my github and got my rules straight. I'm going to do this, and this time I'll be more accountable and make it the full 100 days - and make a proper lifestyle habit. I also spent some time working through StackSkills Javascript. The general rules for the 100days are not to use courses, but for me that's out of the question - this is to learn to code primarily, and then I can move into using those skills.
