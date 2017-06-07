@@ -3,6 +3,12 @@
 # This is the log I'll use for the second attempt of 100-days-of-code. 
 ## My longterm goals are simple and malleable: learn enough to comfortably become a digital nomad. Make my app. Be able to comfortably do the Codewars Kata without looking at hints. Become a confident problemsolver with code.
 
+### Day 3: June 7, 2017
+
+**Today's Progress**: I spent half my time studying the Stackskills, and then did some practical exercises through FCC which really challenged me.
+
+**Thoughts:** I really struggled with the exercise (accessing nested arrays with JavaScript) but I felt a sense of achievement once I finished, though my solution was definitely less than elegant!
+
 ### Day 2: June 6, 2017
 
 **Today's Progress**: Today I studied JavaScript through the Stackskills course and learned about hiding divs on button click, and sending messages to the console which was new information.
