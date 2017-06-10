@@ -3,6 +3,12 @@
 # This is the log I'll use for the second attempt of 100-days-of-code. 
 ## My longterm goals are simple and malleable: learn enough to comfortably become a digital nomad. Make my app. Be able to comfortably do the Codewars Kata without looking at hints. Become a confident problemsolver with code.
 
+### Day 6: June 10, 2017
+
+**Today's Progress**: Today I got to the algorithm challenges! I've completed two and working on a third. It's exciting.
+
+**Thoughts:** I'm having to look things up but it feels like it'll stick better this way.
+
 ### Day 5: June 9, 2017
 
 **Today's Progress**: I spread out my time spent into bite-sized exercise chunks throughout the day. I worked through more JS using "this." and array functions.
