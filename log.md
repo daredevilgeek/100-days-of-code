@@ -3,6 +3,12 @@
 # This is the log I'll use for the second attempt of 100-days-of-code. 
 ## My longterm goals are simple and malleable: learn enough to comfortably become a digital nomad. Make my app. Be able to comfortably do the Codewars Kata without looking at hints. Become a confident problemsolver with code.
 
+### Day 7: June 11, 2017
+
+**Today's Progress**: Stuck on an algorithm challenge, think it's the .replace() bit that's doing it. 
+
+**Thoughts:** Struggling with this is oddly satisfying.
+
 ### Day 6: June 10, 2017
 
 **Today's Progress**: Today I got to the algorithm challenges! I've completed two and working on a third. It's exciting.
