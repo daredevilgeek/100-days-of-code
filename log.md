@@ -3,6 +3,12 @@
 # This is the log I'll use for the second attempt of 100-days-of-code. 
 ## My longterm goals are simple and malleable: learn enough to comfortably become a digital nomad. Make my app. Be able to comfortably do the Codewars Kata without looking at hints. Become a confident problemsolver with code.
 
+### Day 9: June 14, 2017
+
+**Today's Progress**: Title Case algorithm challenges got me puzzled.
+
+**Thoughts:** Feeling positive about maintaining this - skipped a day yesterday due to commitments but there's a lot that's motivating me.
+
 ### Day 8: June 12, 2017
 
 **Today's Progress**: Aw yiss, nailed two algorithm challenges, palindromes and finding the longest word in a sentence.
