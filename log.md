@@ -3,6 +3,12 @@
 # This is the log I'll use for the second attempt of 100-days-of-code. 
 ## My longterm goals are simple and malleable: learn enough to comfortably become a digital nomad. Make my app. Be able to comfortably do the Codewars Kata without looking at hints. Become a confident problemsolver with code.
 
+### Day 10: June 18, 2017
+
+**Today's Progress**: Nailed a couple of algorithm challenges today with Javascript on FCC. 
+
+**Thoughts:** I'm sure it hasn't been that long since I coded so maybe I forgot to log a day?? 
+
 ### Day 9: June 14, 2017
 
 **Today's Progress**: Title Case algorithm challenges got me puzzled.
