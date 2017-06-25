@@ -3,6 +3,12 @@
 # This is the log I'll use for the second attempt of 100-days-of-code. 
 ## My longterm goals are simple and malleable: learn enough to comfortably become a digital nomad. Make my app. Be able to comfortably do the Codewars Kata without looking at hints. Become a confident problemsolver with code.
 
+## Day 12: June 25, 2017
+
+**Today's Progress**: I thought indexOf() was going to be easy but this algorithm challenge is tricky! I might mix up solving this with working on something else. Reading around hasn't helped so far.
+
+**Thoughts:** Had a week off due to chaotic life but back online and onboard.
+
 ### Day 11: June 19, 2017
 
 **Today's Progress**: Was happily chugging through algorithm challenges and now hit a stinker! Can't get my head around sub arrays.
