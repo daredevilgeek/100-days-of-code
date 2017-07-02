@@ -3,6 +3,12 @@
 # This is the log I'll use for the second attempt of 100-days-of-code. 
 ## My longterm goals are simple and malleable: learn enough to comfortably become a digital nomad. Make my app. Be able to comfortably do the Codewars Kata without looking at hints. Become a confident problemsolver with code.
 
+## Day 17: July 2, 2017
+
+**Today's Progress**: Going swimmingly on the API and JSON FCC, now at random quote generator and panicking!
+
+**Thoughts:** Uhm, where do I start?
+
 ## Day 13-16: June 26-July 1, 2017
 
 **Today's Progress**: Algorithm challenges, battling through one by one :)
