@@ -3,6 +3,12 @@
 # This is the log I'll use for the second attempt of 100-days-of-code. 
 ## My longterm goals are simple and malleable: learn enough to comfortably become a digital nomad. Make my app. Be able to comfortably do the Codewars Kata without looking at hints. Become a confident problemsolver with code.
 
+## Day 13-16: June 26-July 1, 2017
+
+**Today's Progress**: Algorithm challenges, battling through one by one :)
+
+**Thoughts:** Having trouble with GitHub due to my account name change I think? Losing server connection after validating as an incorrect user so keep losing the day's progress.
+
 ## Day 12: June 25, 2017
 
 **Today's Progress**: I thought indexOf() was going to be easy but this algorithm challenge is tricky! I might mix up solving this with working on something else. Reading around hasn't helped so far.
