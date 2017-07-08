@@ -3,6 +3,12 @@
 # This is the log I'll use for the second attempt of 100-days-of-code. 
 ## My longterm goals are simple and malleable: learn enough to comfortably become a digital nomad. Make my app. Be able to comfortably do the Codewars Kata without looking at hints. Become a confident problemsolver with code.
 
+## Day 18: July 8, 2017
+
+**Today's Progress**: Struggling with the Random Quote Generator. Learning about AJAX which is cool! 
+
+**Thoughts:**  Finding other ways to engage with coding on days where I'm unwell or away from my computer (like this week) - have found a rich variety of podcasts to keep me excited.
+
 ## Day 17: July 2, 2017
 
 **Today's Progress**: Going swimmingly on the API and JSON FCC, now at random quote generator and panicking!
