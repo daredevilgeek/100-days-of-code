@@ -3,6 +3,14 @@
 # This is the log I'll use for the second attempt of 100-days-of-code. 
 ## My longterm goals are simple and malleable: learn enough to comfortably become a digital nomad. Make my app. Be able to comfortably do the Codewars Kata without looking at hints. Become a confident problemsolver with code.
 
+## R1D1: July 24 2017
+
+**Today's Progress**: Signed up with Team Treehouse. Step by step is my game, especially at this stage of knowledge.
+
+**Thoughts:** Come on dude, you got this.
+
+## Line in the sand - let's give this another go.
+
 ## Day 19: July 9, 2017
 
 **Today's Progress**: 3 hours of podcasts (Javascript and Python) and 1 hour of learning AJAX protocols in preparation for the Random Quote Generator. 
