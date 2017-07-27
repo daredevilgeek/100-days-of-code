@@ -3,6 +3,13 @@
 # This is the log I'll use for the second attempt of 100-days-of-code. 
 ## My longterm goals are simple and malleable: learn enough to comfortably become a digital nomad. Make my app. Be able to comfortably do the Codewars Kata without looking at hints. Become a confident problemsolver with code.
 
+
+## R1D3: July 27 2017
+
+**Today's Progress**: Playing round with Javascript, building simple web apps.
+
+**Thoughts:** Really enjoying Treehouse, and also have been listening to Frontier podcasts. 
+
 ## R1D2: July 25 2017
 
 **Today's Progress**: JavaScript with Treehouse. prompt, alert, document.write.
