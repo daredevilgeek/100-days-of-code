@@ -3,6 +3,11 @@
 # This is the log I'll use for the second attempt of 100-days-of-code. 
 ## My longterm goals are simple and malleable: learn enough to comfortably become a digital nomad. Make my app. Be able to comfortably do the Codewars Kata without looking at hints. Become a confident problemsolver with code.
 
+## R1D4: July 28 2017
+
+**Today's Progress**: Getting into more lengthy apps with Treehouse. 
+
+**Thoughts:** This seems more thorough and less spoonfed than FCC - The challenges make you think as it's not all written there to copy/paste.
 
 ## R1D3: July 27 2017
 
