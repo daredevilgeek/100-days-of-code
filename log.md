@@ -3,6 +3,12 @@
 # This is the log I'll use for the second attempt of 100-days-of-code. 
 ## My longterm goals are simple and malleable: learn enough to comfortably become a digital nomad. Make my app. Be able to comfortably do the Codewars Kata without looking at hints. Become a confident problemsolver with code.
 
+## R1D8: Aug 8 2017
+
+**Today's Progress**: Dedicated my evening to it. Did some JavaScript lessons on loops, then some CodeWars, then finally some CodeCademy Command Line sessions.
+
+**Thoughts:** Why is it so hard to get myself motivated and consistent with this?
+
 ## R1D5-7: July 30-Aug 1 2017
 
 **Today's Progress**: Finished JavaScript Basics and now onto Loops, Arrays, and Objects. This is all revision but is filling some good gaps. 
