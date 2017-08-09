@@ -3,6 +3,12 @@
 # This is the log I'll use for the second attempt of 100-days-of-code. 
 ## My longterm goals are simple and malleable: learn enough to comfortably become a digital nomad. Make my app. Be able to comfortably do the Codewars Kata without looking at hints. Become a confident problemsolver with code.
 
+## R1D9: Aug 9 2017
+
+**Today's Progress**: Spent a solid few hours today working on my Random Quote Generator. Have tried a couple of different APIs and now realised my JQuery knowledge is sub-par (was using JavaScript) so am back to CodeCademy to brush up before finishing.
+
+**Thoughts:** It was great to get a really good chunk of time dedicated to this, and now I know to go to CodeCademy for quick learning where I need to (initially dismissed that resource in favour of FCC because of keyboard shortcuts).
+
 ## R1D8: Aug 8 2017
 
 **Today's Progress**: Dedicated my evening to it. Did some JavaScript lessons on loops, then some CodeWars, then finally some CodeCademy Command Line sessions.
