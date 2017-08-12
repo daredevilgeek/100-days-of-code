@@ -3,6 +3,12 @@
 # This is the log I'll use for the second attempt of 100-days-of-code. 
 ## My longterm goals are simple and malleable: learn enough to comfortably become a digital nomad. Make my app. Be able to comfortably do the Codewars Kata without looking at hints. Become a confident problemsolver with code.
 
+## R1D11-12: Aug 11-12 2017
+
+**Today's Progress**: Spent all day today studying jQuery. Feel like I'm getting a real grip on it thanks to Codecademy - they don't spoonfeed anything.
+
+**Thoughts:** Great fun - my non-work days (when I'm not out of town) are now spent sitting at the table coding all day. Bliss.
+
 ## R1D10: Aug 10 2017
 
 **Today's Progress**: Focussing on JQuery through Codecademy. I feel like I've learned this before but not paid enough attention. Now that I need it for a project, I have context to apply it to, and it's making a lot of sense.
