@@ -3,6 +3,12 @@
 # This is the log I'll use for the second attempt of 100-days-of-code. 
 ## My longterm goals are simple and malleable: learn enough to comfortably become a digital nomad. Make my app. Be able to comfortably do the Codewars Kata without looking at hints. Become a confident problemsolver with code.
 
+## R1D14: Aug 14 2017
+
+**Today's Progress**: I GOT A FECKIN QUOTE ON A PAGE!! It just keeps spitting out the same one, but it's huge, after 5 weeks... I'll take it! Now I just have to clean it up, and get it spitting out new ones.
+
+**Thoughts:** On top of the world.
+
 ## R1D13: Aug 13 2017
 
 **Today's Progress**: Finished my jQuery study, and went back to project work. Figured out one of the many issues with my Random Quote Machine - I'd been trying for two weeks to use an xml query on a JSON API... sigh.
