@@ -3,6 +3,13 @@
 # This is the log I'll use for the second attempt of 100-days-of-code. 
 ## My longterm goals are simple and malleable: learn enough to comfortably become a digital nomad. Make my app. Be able to comfortably do the Codewars Kata without looking at hints. Become a confident problemsolver with code.
 
+
+## R1D15: Aug 15 2017
+
+**Today's Progress**: Got my random quote machine spitting out random quotes on demand. Victory! Now to make it look pretty. I'm going back to brush up on my responsive design (it's all gone from my head). I also whipped up a simple (but elegant) Wordpress site for my brother.
+
+**Thoughts:** Feeling... accomplished.
+
 ## R1D14: Aug 14 2017
 
 **Today's Progress**: I GOT A FECKIN QUOTE ON A PAGE!! It just keeps spitting out the same one, but it's huge, after 5 weeks... I'll take it! Now I just have to clean it up, and get it spitting out new ones.
