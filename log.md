@@ -3,6 +3,13 @@
 # This is the log I'll use for the second attempt of 100-days-of-code. 
 ## My longterm goals are simple and malleable: learn enough to comfortably become a digital nomad. Make my app. Be able to comfortably do the Codewars Kata without looking at hints. Become a confident problemsolver with code.
 
+
+## R1D18-19: Aug 18-19 2017
+
+**Today's Progress**: Bit of Responsive Design and also Javascript Full Stack study on Treehouse.
+
+**Thoughts:** Super hard to get inspired to study at the moment - work stress is getting in the way so I'm trying to go easy on myself :)
+
 ## R1D17: Aug 17 2017
 
 **Today's Progress**: Bit of cleanup on the website, and then a bit of Responsive Design with Codecademy.
