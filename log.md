@@ -3,6 +3,11 @@
 # This is the log I'll use for the second attempt of 100-days-of-code. 
 ## My longterm goals are simple and malleable: learn enough to comfortably become a digital nomad. Make my app. Be able to comfortably do the Codewars Kata without looking at hints. Become a confident problemsolver with code.
 
+## R1D20: Aug 28 2017
+
+**Today's Progress**: Back into it. Reviewing my Bootstrap learning and using the information to clean up my Random Quote Machine. Should be ready to submit very soon!
+
+**Thoughts:** Had a brief existential crisis about what I should be studying. Realised there's not much point in studying web dev when that's not what I want to do (I'm shite at design). I had decided to drop it all and go back to Python/Arduino/code that makes stuff happen! However, I looked at the map in FCC and saw that it actually follows a trajectory I'd like to be on, so I'm sticking with it for now.
 
 ## R1D18-19: Aug 18-19 2017
 
