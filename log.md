@@ -3,6 +3,13 @@
 # This is the log I'll use for the second attempt of 100-days-of-code. 
 ## My longterm goals are simple and malleable: learn enough to comfortably become a digital nomad. Make my app. Be able to comfortably do the Codewars Kata without looking at hints. Become a confident problemsolver with code.
 
+## R1D21: Aug 29 2017
+
+**Today's Progress**: Random Quote Machine is working and looking good! However, when I went to submit, I found that the user story about Twitter wasn't optional - I'm now working on getting that going and it's proving far harder than I thought it'd be.
+
+**Thoughts:** Enjoying the playfulness and experimentation of trying to solve a problem.
+
+
 ## R1D20: Aug 28 2017
 
 **Today's Progress**: Back into it. Reviewing my Bootstrap learning and using the information to clean up my Random Quote Machine. Should be ready to submit very soon!
