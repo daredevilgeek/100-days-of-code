@@ -3,6 +3,13 @@
 # This is the log I'll use for the second attempt of 100-days-of-code. 
 ## My longterm goals are simple and malleable: learn enough to comfortably become a digital nomad. Make my app. Be able to comfortably do the Codewars Kata without looking at hints. Become a confident problemsolver with code.
 
+
+## R1D23-24: Sept 2-3 2017
+
+**Today's Progress**: Started my Weather project. Having a problem with parsing the XML response so will most likely rewrite as JSON - I think this will be a better lesson for me anyway.
+
+**Thoughts:** Trying to get more scheduled and structured - sit down at the computer and take 5 min to decide what to focus on this session - rather than stabbing around on the internet. Story of my life, right? 
+
 ## R1D22: Aug 30 2017
 
 **Today's Progress**: Finished my brother's website and handed it over to him, and finished my Random Quote Machine and submitted it! Even got the Twitter bit going. What a day!
