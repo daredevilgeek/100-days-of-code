@@ -3,6 +3,11 @@
 # This is the log I'll use for the second attempt of 100-days-of-code. 
 ## My longterm goals are simple and malleable: learn enough to comfortably become a digital nomad. Make my app. Be able to comfortably do the Codewars Kata without looking at hints. Become a confident problemsolver with code.
 
+## R1D25: Sept 4 2017
+
+**Today's Progress**: Had another go at cleaning up the API on my weather project. Renewed my interest in my website, and put up a post. Now going back through JSON API doco trying to figure it out!
+
+**Thoughts:** Keeping calm and level headed with techniques I've been learning lately.
 
 ## R1D23-24: Sept 2-3 2017
 
