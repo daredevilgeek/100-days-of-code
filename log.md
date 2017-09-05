@@ -3,6 +3,12 @@
 # This is the log I'll use for the second attempt of 100-days-of-code. 
 ## My longterm goals are simple and malleable: learn enough to comfortably become a digital nomad. Make my app. Be able to comfortably do the Codewars Kata without looking at hints. Become a confident problemsolver with code.
 
+## R1D26: Sept 5 2017
+
+**Today's Progress**: Got some sweet responses coming from the weather API on my FCC project, and can even reference each object (hurrah!). Now moving on to getting the geolocation working before I nail down the weather responses better. It's still outputting a completely blank page and a whole lot of stuff to the console, but hey, it works for me!
+
+**Thoughts:** Improvements are small but steady.
+
 ## R1D25: Sept 4 2017
 
 **Today's Progress**: Had another go at cleaning up the API on my weather project. Renewed my interest in my website, and put up a post. Now going back through JSON API doco trying to figure it out!
