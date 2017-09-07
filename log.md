@@ -5,6 +5,12 @@
 
 ## R1D26: Sept 5 2017
 
+**Today's Progress**: Made some fair progress with the geolocation but having some issues with the jQuery variables not returning / storing what I'm expecting, so I'm developing my troubleshooting skills and will have another look at my jQuery resources to see if there's anything I've missed.
+
+**Thoughts:** I'll get there - the goal is in sight :)
+
+## R1D26: Sept 5 2017
+
 **Today's Progress**: Got some sweet responses coming from the weather API on my FCC project, and can even reference each object (hurrah!). Now moving on to getting the geolocation working before I nail down the weather responses better. It's still outputting a completely blank page and a whole lot of stuff to the console, but hey, it works for me!
 
 **Thoughts:** Improvements are small but steady.
