@@ -3,6 +3,12 @@
 # This is the log I'll use for the second attempt of 100-days-of-code. 
 ## My longterm goals are simple and malleable: learn enough to comfortably become a digital nomad. Make my app. Be able to comfortably do the Codewars Kata without looking at hints. Become a confident problemsolver with code.
 
+## R1D30: Sept 10 2017
+
+**Today's Progress**: Might be getting somewhere with the weather app after a combination of a couple of hints I had - one from Twitter and one given to someone else with a different error. Will follow up tomorrow. 
+
+**Thoughts:** Am adopting better commenting practices in my code, and also using Pomodoro timers for my work to try and promote deep focus.
+
 ## R1D28-29: Sept 8-9 2017
 
 **Today's Progress**: Getting frustrated with my Weather Project. The APIs are both working fine but I can't get the variables to return values outside of their given functions so it's not all playing together properly. I've posted it on Twitter asking it for feedback.
