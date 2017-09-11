@@ -5,6 +5,12 @@
 
 ## R1D30: Sept 10 2017
 
+**Today's Progress**: Just a bit too stumped.
+
+**Thoughts:** It might be time to look at other projects to see how they did it.
+
+## R1D30: Sept 10 2017
+
 **Today's Progress**: Might be getting somewhere with the weather app after a combination of a couple of hints I had - one from Twitter and one given to someone else with a different error. Will follow up tomorrow. 
 
 **Thoughts:** Am adopting better commenting practices in my code, and also using Pomodoro timers for my work to try and promote deep focus.
