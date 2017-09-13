@@ -3,6 +3,12 @@
 # This is the log I'll use for the second attempt of 100-days-of-code. 
 ## My longterm goals are simple and malleable: learn enough to comfortably become a digital nomad. Make my app. Be able to comfortably do the Codewars Kata without looking at hints. Become a confident problemsolver with code.
 
+## R1D33: Sept 13 2017
+
+**Today's Progress**: Decided not to look at other projects, but to focus on courses for AJAX, APIs, callbacks, and jQuery to be able to fully understand and solve the problem myself. Finished a geolocation API session on TeamTreehouse and will move onto callbacks tomorrow.
+
+**Thoughts:** Determined!!
+
 ## R1D31: Sept 10 2017
 
 **Today's Progress**: Just a bit too stumped.
