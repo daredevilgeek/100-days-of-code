@@ -3,7 +3,7 @@
 # This is the log I'll use for the second attempt of 100-days-of-code. 
 ## My longterm goals are simple and malleable: learn enough to comfortably become a digital nomad. Make my app. Be able to comfortably do the Codewars Kata without looking at hints. Become a confident problemsolver with code.
 
-## R1D33: Sept 13 2017
+## R1D34: Sept 13 2017
 
 **Today's Progress**: Going through the callback classes on TeamTreehouse. I'm not sure I get it yet but I'm definitely in a better spot to look at my weather project. I'll keep learning and checking back with it.
 
