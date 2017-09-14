@@ -5,6 +5,12 @@
 
 ## R1D33: Sept 13 2017
 
+**Today's Progress**: Going through the callback classes on TeamTreehouse. I'm not sure I get it yet but I'm definitely in a better spot to look at my weather project. I'll keep learning and checking back with it.
+
+**Thoughts:** Inspired.
+
+## R1D33: Sept 13 2017
+
 **Today's Progress**: Decided not to look at other projects, but to focus on courses for AJAX, APIs, callbacks, and jQuery to be able to fully understand and solve the problem myself. Finished a geolocation API session on TeamTreehouse and will move onto callbacks tomorrow.
 
 **Thoughts:** Determined!!
