@@ -3,6 +3,11 @@
 # This is the log I'll use for the second attempt of 100-days-of-code. 
 ## My longterm goals are simple and malleable: learn enough to comfortably become a digital nomad. Make my app. Be able to comfortably do the Codewars Kata without looking at hints. Become a confident problemsolver with code.
 
+## R1D37: Oct 3 2017
+
+**Today's Progress**: I got a reply from my API! I can now see the weather (in my console) based on my location! Next step is to build a visual design based on this.
+
+**Thoughts:** Yay!
 
 ## R1D35-36: Oct 1-2 2017
 
