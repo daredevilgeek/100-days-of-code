@@ -5,6 +5,12 @@
 
 ## R1D37: Oct 3 2017
 
+**Today's Progress**: Starting a fullstack bootcamp - I've got 6 months left before I have to fend for myself so need to upskill!
+
+**Thoughts:** This bootcamp looks good. I need to reassess my priorities and get really serious about it all.
+
+## R1D37: Oct 3 2017
+
 **Today's Progress**: I got a reply from my API! I can now see the weather (in my console) based on my location! Next step is to build a visual design based on this.
 
 **Thoughts:** Yay!
