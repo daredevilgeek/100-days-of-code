@@ -3,6 +3,12 @@
 # This is the log I'll use for the second attempt of 100-days-of-code. 
 ## My longterm goals are simple and malleable: learn enough to comfortably become a digital nomad. Make my app. Be able to comfortably do the Codewars Kata without looking at hints. Become a confident problemsolver with code.
 
+## R1D39-41: Oct 7,8, 10 2017
+
+**Today's Progress**: Working through the fullstack bootcamp, and doing some custom scripting for work. 
+
+**Thoughts:** Feeling good, looking ahead to my future and planning for where I want to be.
+
 ## R1D38: Oct 4 2017
 
 **Today's Progress**: Starting a fullstack bootcamp - I've got 6 months left before I have to fend for myself so need to upskill!
