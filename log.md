@@ -3,6 +3,11 @@
 # This is the log I'll use for the second attempt of 100-days-of-code. 
 ## My longterm goals are simple and malleable: learn enough to comfortably become a digital nomad. Make my app. Be able to comfortably do the Codewars Kata without looking at hints. Become a confident problemsolver with code.
 
+## R1D45: Oct 20 2017
+
+**Today's Progress**: I wrote four articles for the FCC Guide - four pull requests for Hacktoberfest. Super exciting way to get involved, and now I've seen all the content that's available in the guide I"m looking forward to reading all the rest of it.
+
+**Thoughts:** Had a burst of motivation over that - great initiative.
 
 ## R1D42-44: Oct 17 2017
 
