@@ -3,6 +3,13 @@
 # This is the log I'll use for the second attempt of 100-days-of-code. 
 ## My longterm goals are simple and malleable: learn enough to comfortably become a digital nomad. Make my app. Be able to comfortably do the Codewars Kata without looking at hints. Become a confident problemsolver with code.
 
+
+## R1D46: Oct 24 2017
+
+**Today's Progress**: Completed the first of the JavaScript30 Challenges - the clock. Quite like the format of the learning, it's a good pace and I can keep pausing and creeping through the video to see all the code.
+
+**Thoughts:** Accomplished something.
+
 ## R1D45: Oct 20 2017
 
 **Today's Progress**: I wrote four articles for the FCC Guide - four pull requests for Hacktoberfest. Super exciting way to get involved, and now I've seen all the content that's available in the guide I"m looking forward to reading all the rest of it.
