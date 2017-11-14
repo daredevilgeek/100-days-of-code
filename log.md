@@ -3,6 +3,11 @@
 # This is the log I'll use for the second attempt of 100-days-of-code. 
 ## My longterm goals are simple and malleable: learn enough to comfortably become a digital nomad. Make my app. Be able to comfortably do the Codewars Kata without looking at hints. Become a confident problemsolver with code.
 
+## R1D49-50: Nov 13-14 2017
+
+**Today's Progress**: Have been working on the JavaScript 30. Think I should probably start this over in order to do it every day... Hmmm
+
+**Thoughts:** Love the JavaScript 30, there's lots I don't get but it's the best way to learn.
 
 ## R1D48: Nov 4 2017
 
