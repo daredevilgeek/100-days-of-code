@@ -3,6 +3,10 @@
 # This is the log I'll use for the second attempt of 100-days-of-code. 
 ## My longterm goals are simple and malleable: learn enough to comfortably become a digital nomad. Make my app. Be able to comfortably do the Codewars Kata without looking at hints. Become a confident problemsolver with code.
 
+## R1D51: Nov 15 2017
+
+**Today's Progress**: Finished Flexbox Froggy. Next is starting CSS Grid.
+
 ## R1D49-50: Nov 13-14 2017
 
 **Today's Progress**: Have been working on the JavaScript 30. Think I should probably start this over in order to do it every day... Hmmm
