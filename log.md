@@ -3,6 +3,10 @@
 # This is the log I'll use for the second attempt of 100-days-of-code. 
 ## My longterm goals are simple and malleable: learn enough to comfortably become a digital nomad. Make my app. Be able to comfortably do the Codewars Kata without looking at hints. Become a confident problemsolver with code.
 
+## R1D55: Dec 18 2017
+
+**Today's Progress**: Did some more of the Udemy course - think I've missed logging some days. Want to go full force on this but lacking the self discipline.
+
 ## R1D54: Dec 11 2017
 
 **Today's Progress**: Played with the AdventOfCode until I got stumped, and also created some logging conventions for my garden diary (gotta do useful stuff too!)
