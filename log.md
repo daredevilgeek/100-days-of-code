@@ -1,7 +1,16 @@
 # 100 Days Of Code - Log
 
-# This is the log I'll use for the second attempt of 100-days-of-code. 
+# Making a third attempt!
 ## My longterm goals are simple and malleable: learn enough to comfortably become a digital nomad. Make my app. Be able to comfortably do the Codewars Kata without looking at hints. Become a confident problemsolver with code.
+
+## R2D2: Jan 2 2018
+
+**Today's Progress**: Learning about combining while loops and if statements, getting really confident with using Sublime.
+
+## R2D1: Jan 1 2018
+
+**Today's Progress**: Away from internet and mains power so did some reading about working as a web developer, and using boolean algebra.
+
 
 
 ## R1D56: Dec 21 2017
