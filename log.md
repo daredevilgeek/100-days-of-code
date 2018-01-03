@@ -3,6 +3,10 @@
 # Making a third attempt!
 ## My longterm goals are simple and malleable: learn enough to comfortably become a digital nomad. Make my app. Be able to comfortably do the Codewars Kata without looking at hints. Become a confident problemsolver with code.
 
+## R2D3: Jan 3 2018
+
+**Today's Progress**: Today's bootcamp session described arguments perfectly! Filled in the gaps.
+
 ## R2D2: Jan 2 2018
 
 **Today's Progress**: Learning about combining while loops and if statements, getting really confident with using Sublime.
