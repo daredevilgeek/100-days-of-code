@@ -3,6 +3,10 @@
 # Making a third attempt!
 ## My longterm goals are simple and malleable: learn enough to comfortably become a digital nomad. Make my app. Be able to comfortably do the Codewars Kata without looking at hints. Become a confident problemsolver with code.
 
+## R2D7: Jan 7 2018
+
+**Today's Progress**: Did some array algorithms and then learned to "make my own forEach" - now a bit brainfudgy.
+
 ## R2D6: Jan 6 2018
 
 **Today's Progress**: Made a simple ToDo app and refactored it.
