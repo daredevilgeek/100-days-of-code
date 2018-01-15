@@ -3,6 +3,10 @@
 # Making a third attempt!
 ## My longterm goals are simple and malleable: learn enough to comfortably become a digital nomad. Make my app. Be able to comfortably do the Codewars Kata without looking at hints. Become a confident problemsolver with code.
 
+## R2D13: Jan 15 2018
+
+**Today's Progress**: Building little toggles using DOM Manipulation.
+
 ## R2D12: Jan 14 2018
 
 **Today's Progress**: More DOM Manipulation and element selection.
