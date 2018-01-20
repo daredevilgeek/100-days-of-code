@@ -3,6 +3,10 @@
 # Making a third attempt!
 ## My longterm goals are simple and malleable: learn enough to comfortably become a digital nomad. Make my app. Be able to comfortably do the Codewars Kata without looking at hints. Become a confident problemsolver with code.
 
+## R2D18: Jan 20 2018
+
+**Today's Progress**: Learning about Markov Decision Processes and how they can apply in a variety of applications.
+
 ## R2D16: Jan 18 2018
 
 **Today's Progress**: Did some more of the Colour Game, finished the logic on it - taking it easy today.
