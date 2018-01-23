@@ -3,6 +3,10 @@
 # Making a third attempt!
 ## My longterm goals are simple and malleable: learn enough to comfortably become a digital nomad. Make my app. Be able to comfortably do the Codewars Kata without looking at hints. Become a confident problemsolver with code.
 
+## R2D20: Jan 23 2018
+
+**Today's Progress**: Did some Temporal Difference tutorials but feel like it's going in one ear and out the other!
+
 ## R2D19: Jan 22 2018
 
 **Today's Progress**: Introduction to Q Learning - blew my mind a little bit, may need to slow down with some extra material.
