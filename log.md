@@ -3,6 +3,10 @@
 # Making a third attempt!
 ## My longterm goals are simple and malleable: learn enough to comfortably become a digital nomad. Make my app. Be able to comfortably do the Codewars Kata without looking at hints. Become a confident problemsolver with code.
 
+## R2D21: Jan 24 2018
+
+**Today's Progress**: Worked some more on my RGB colour game, it's functional and I love it! I might put it into CodePen so I can share it online.
+
 ## R2D20: Jan 23 2018
 
 **Today's Progress**: Did some Temporal Difference tutorials but feel like it's going in one ear and out the other!
