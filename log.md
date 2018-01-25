@@ -3,6 +3,10 @@
 # Making a third attempt!
 ## My longterm goals are simple and malleable: learn enough to comfortably become a digital nomad. Make my app. Be able to comfortably do the Codewars Kata without looking at hints. Become a confident problemsolver with code.
 
+## R2D22: Jan 25 2018
+
+**Today's Progress**: Really enjoyed today's session on jQuery - Colt Steele is the best explainer and definitely matches the way I learn.
+
 ## R2D21: Jan 24 2018
 
 **Today's Progress**: Worked some more on my RGB colour game, it's functional and I love it! I might put it into CodePen so I can share it online.
