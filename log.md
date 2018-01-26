@@ -3,6 +3,10 @@
 # Making a third attempt!
 ## My longterm goals are simple and malleable: learn enough to comfortably become a digital nomad. Make my app. Be able to comfortably do the Codewars Kata without looking at hints. Become a confident problemsolver with code.
 
+## R2D23: Jan 26 2018
+
+**Today's Progress**: Some more great jQuery tutorials with Colt Steele.
+
 ## R2D22: Jan 25 2018
 
 **Today's Progress**: Really enjoyed today's session on jQuery - Colt Steele is the best explainer and definitely matches the way I learn.
