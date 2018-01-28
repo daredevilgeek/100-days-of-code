@@ -3,6 +3,10 @@
 # Making a third attempt!
 ## My longterm goals are simple and malleable: learn enough to comfortably become a digital nomad. Make my app. Be able to comfortably do the Codewars Kata without looking at hints. Become a confident problemsolver with code.
 
+## R2D25: Jan 28 2018
+
+**Today's Progress**: Got started on a wee to-do app, it's nice and simple.
+
 ## R2D24: Jan 27 2018
 
 **Today's Progress**: jQuery events and effects.
