@@ -3,6 +3,10 @@
 # Making a third attempt!
 ## My longterm goals are simple and malleable: learn enough to comfortably become a digital nomad. Make my app. Be able to comfortably do the Codewars Kata without looking at hints. Become a confident problemsolver with code.
 
+## R2D27: Jan 30 2018
+
+**Today's Progress**: Finished the Paper.js work (Patatap clone) and moved into learning about the back end.
+
 ## R2D26: Jan 29 2018
 
 **Today's Progress**: Introduction to PaperJS! This is my kind of framework.
