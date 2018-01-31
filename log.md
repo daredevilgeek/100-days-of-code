@@ -3,6 +3,10 @@
 # Making a third attempt!
 ## My longterm goals are simple and malleable: learn enough to comfortably become a digital nomad. Make my app. Be able to comfortably do the Codewars Kata without looking at hints. Become a confident problemsolver with code.
 
+## R2D28: Jan 31 2018
+
+**Today's Progress**: Brushing up on the command line, and introduction to node using Cloud9
+
 ## R2D27: Jan 30 2018
 
 **Today's Progress**: Finished the Paper.js work (Patatap clone) and moved into learning about the back end.
