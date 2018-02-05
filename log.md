@@ -3,6 +3,10 @@
 # Making a third attempt!
 ## My longterm goals are simple and malleable: learn enough to comfortably become a digital nomad. Make my app. Be able to comfortably do the Codewars Kata without looking at hints. Become a confident problemsolver with code.
 
+## R2D32: Feb 5 2018
+
+**Today's Progress**: Made a wee express app for practice - learning that algorithm solutions are probably more simple than I think they are.
+
 ## R2D30-31: Feb 3-4 2018
 
 **Today's Progress**: Some rec time using SoloLearn to check JavaScript skills, and starting to get into using express.
