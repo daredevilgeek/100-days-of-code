@@ -3,6 +3,10 @@
 # Making a third attempt!
 ## My longterm goals are simple and malleable: learn enough to comfortably become a digital nomad. Make my app. Be able to comfortably do the Codewars Kata without looking at hints. Become a confident problemsolver with code.
 
+## R2D34: Feb 7 2018
+
+**Today's Progress**: Home late, so spent some time playing CodeWars to brush up on my problem solving skills.
+
 ## R2D33: Feb 6 2018
 
 **Today's Progress**: Got disciplined! Used Pomodoro to keep me on track. Feeling good about what I achieved today.
