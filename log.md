@@ -3,6 +3,10 @@
 # Making a third attempt!
 ## My longterm goals are simple and malleable: learn enough to comfortably become a digital nomad. Make my app. Be able to comfortably do the Codewars Kata without looking at hints. Become a confident problemsolver with code.
 
+## R2D40: Feb 16 2018
+
+**Today's Progress**: Spent a good couple of hours doing the boot camp, set up a basic app, next thing is heading into databases!
+
 ## R2D39: Feb 15 2018
 
 **Today's Progress**: Some sneaky CodeWars at work, and then back to the bootcamp. Have a client asking me to build an app already - better learn fast eh.
