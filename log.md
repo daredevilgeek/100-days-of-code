@@ -3,6 +3,10 @@
 # Making a third attempt!
 ## My longterm goals are simple and malleable: learn enough to comfortably become a digital nomad. Make my app. Be able to comfortably do the Codewars Kata without looking at hints. Become a confident problemsolver with code.
 
+## R2D42: Feb 18 2018
+
+**Today's Progress**: Some more MongoDB and Mongoose though the boot camp - my heart's not in it tonight so just a short session :)
+
 ## R2D41: Feb 17 2018
 
 **Today's Progress**: Installed MongoDB and had a wee play with it. This type of interface/syntax is my comfort zone so I can already tell I'm going to like it.
