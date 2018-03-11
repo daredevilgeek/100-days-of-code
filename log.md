@@ -3,6 +3,10 @@
 # Making a third attempt!
 ## My longterm goals are simple and malleable: learn enough to comfortably become a digital nomad. Make my app. Be able to comfortably do the Codewars Kata without looking at hints. Become a confident problemsolver with code.
 
+## R2D60: Mar 11 2018
+
+**Today's Progress**: Finished the blog app - using all 7 RESTful routes. Great practice.
+
 ## R2D56: Mar 6 2018
 
 **Today's Progress**: Worked some more on the blog app (to add new blogs with a form) - and then had a wee look at my parked weather app, able to make a quick fix.
